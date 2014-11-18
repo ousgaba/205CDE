@@ -1,0 +1,44 @@
+p
+{
+ color:red;   
+}
+
+#headingone, nav {
+	position:relative;
+	width:620px;
+	margin:0 auto; 
+	margin-top:50px;
+	padding:10px;
+    font-size: 20;
+}
+
+#headingone
+{
+ background-color: blue;
+    width:800px;
+}
+
+
+#headingtwo, nav {    
+    position:relative;
+	width:5000px;
+	margin:0 auto; 
+	margin-top:50px;
+	padding:10px;
+    font-size: 20;
+}
+
+ #headingtwo
+{ 
+    background-color: yellow;
+    width: 700px;
+}
+#navigationBar
+{
+    position:relative;
+	width:4500px;
+	margin:0 auto; 
+	margin-top:75px;
+	padding:20px;
+    font-size: 6
+}
