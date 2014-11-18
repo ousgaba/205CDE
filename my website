@@ -1,0 +1,58 @@
+<!--
+To change this template use Tools | Templates.
+-->
+<html>
+
+   <head bgcolor="#0000111"> 
+    <title>SOCIAL SECURITY & HOUSING FINANCE CORPORATION, THE GAMBIA</title>
+    
+    <link rel="stylesheet" type="text/css" href="HomepageCSS.css"/>
+    </head>
+
+
+    
+    
+        
+    
+      
+    
+
+
+    <body>
+    
+    
+    <a href="Aboutus.html"> About us</a>
+    <a href="link%20to%20projetcs.html"> Projects</a>
+    <a href="funds.html"> Funds</a>
+    <a href="benefits.html"> Benefits</a>
+    <a href="link%20to%20projetcs.html"> Projects</a>
+    <a href="mailto:baho@uni.coventry.ac.uk"> Email login</a>
+    <a href="http://sshfc.gm"> sshfc</a>
+        
+        <div id="headingone">
+        
+        
+        <h1>SOCIAL SECURITY<p>&</p>   
+        HOUSING FINANCE CORPORATION, THE GAMBIA
+                </h1>
+            
+            </div>
+            <img src ="sshfc.jpg"/>
+        
+        
+        
+     
+    
+         
+       <font color="yellow"> <h2> <em>With us every employee is secured and protected !!!  </em></h2></font> 
+    
+    
+    
+    </body>
+
+    
+
+
+
+
+</html>
